@@ -1,5 +1,3 @@
-![Header](https://github.com/SeldaBayman-oss/SeldaBayman-oss/blob/main/header.png)
-
 # 👋 Hi there, I'm **Selda Bayman**
 
 **💼 Data Analyst | Exploring CRM Analytics, Big Data & Digital Marketing**
